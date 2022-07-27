@@ -112,3 +112,45 @@ o deploy em duas zonas distintas e aqueles que já são sincronizados automátic
 
 ## Regiões Pares do Azure
 
+
+# Serviços de computação básica
+
+São servicos para prover capacidade de processamento. Essa capacidade
+pode ser usada para as mais diferentes finalidades, seja para o 
+desenvolvimento de banco de dados, um servidor de cálculo ou 
+outra necessidade. Dentro dos serviços de computação básica temos
+as Máquinas Virtuais (VMs), Azure Container Instaces (ACIs), 
+Azure Kubernetes Service (AKS), Azure App Service (WebApp) and 
+Azure Functions.  
+
+## Computação básica no Azure
+
+
+## Virtual Machines
+
+Virtual machines correspondem a base da computação em núvem. As VMs são usada para 
+migrar ambiente locais corporativos para dentro da núvem. Todas as aplicacões se 
+mantém inalteradas, somente virtualizando servidores que tínhamos dentro de um 
+data center local. As VM disponíveis no Azure são divididas em famílias, onde 
+cada família atende um propósito/perfil de uso diferente. 
+
+- Propósito Geral - Possuem uma relação CPU/memória equilibrados. Podem ser utilizadas em teste de aplicação. Os tamanhos 
+comuns são B, Dsv3, Dv3, DSv2, Dv2, Av2, DC. (MOSTRAR O QUE É CADA UMA DESSAS SIGLAS)
+
+- Computação otimizada - relação CPU/memória alta ou seja, são máquinas que possuem sempre 
+mais CPU (cores) que memória ram. Máquinas deste tipo são úteis para dispositivos de rede, 
+processamento de dados e até mesmo computação científica.
+
+- Memória Otimizada - relação CPU/memória baixa, ou seja, possuem mais memória ram que 
+núcleos de processamento. Bastante útil para bancos de dados relacionais ou mesmo prospeção
+de dados em memória. Participam desta classe de máquinas a Esv3, Ev3, M, DSv2, Dv2. 
+
+Estou em 5:58 na aula 5.1
+
+## Containers
+
+## Azure Kubernetes Service
+
+## Azure WebApp 
+
+## Azure Functions
