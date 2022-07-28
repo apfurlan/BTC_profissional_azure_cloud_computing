@@ -3,8 +3,8 @@
 <img src="images/logo_apcc.svg" alt="drawing" width="400" class="center"/>
 
 This repositoy contains the activities, exames and codes of the
-Azure Professional Cloud Computing of the XP Education.  The module
-is divided into 4 Modules and a Final Challenge, 
+[Azure Professional Cloud Computing](https://www.xpeducacao.com.br/bootcamp/profissional-azure) of the [XP Education](https://www.xpeducacao.com.br/).  The 
+module is divided into 4 Modules and a Final Challenge, 
 
 **Module 01** : [Introduction to Azure and Basic IT Infrastructure as a Service](./mod_01/)
 
