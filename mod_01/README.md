@@ -1,3 +1,46 @@
+# **Module 01**
+&nbsp;
+&nbsp;
+
+## **Introduction to Azure and Basic IT Infrastructure as a Service**
+&nbsp;
+&nbsp;
+
+### **Chapter 01 :** Introduction to Azure
+    - What is Azure ?
+    - Cloud Fundamentals
+    - Cloud Service Models
+    - Azure Portal
+    - Azure Marketplace
+
+
+### **Chapter 02 :** Azure Services
+    - Azure Services - Computing, Networking, Storage and Databases.  
+    - Demo - Exploring the Azure portal and deploying a storage account. 
+    - Azure Services - Applications, Data Processing, Artificial Intelligence and DevOps. 
+    - Demo - Deploying a data processing service, Azure Data Factory. 
+
+### **Chapter 03 :** Introduction to Azure Accounts
+    - Azure Accounts, Subscriptions, Cloud Adoption Framework CAF and Creating a free account in Azure.
+    - Demo - Creating a free account in Azure. 
+
+
+### **Chapter 04 :** Global Azure Infrastructure
+    - Azure Regions, Availability Zones, Using AZs in Applications, and Azure Peer Regions.
+    - Demo - Choosing an Azure Region.
+
+### **Chapter 05 :** Basic Computing Services  
+    - Azure Basic Computing, Virtual Machines, Containers and Windows Virtual Desktop. 
+    - Demo - Deploying a Virtual Machine. 
+
+### **Chapter 06 :** Azure Networking Services 
+    - Azure Virtual Network, Is Azure open for the Internet?  Connections between On-Premises and Azure, and Connections between virtual networks.  
+    - Demo - Implementing a vNet in Azure. 
+
+### **Chapter 07 :** Conclusions 
+ 
+
+<br><br/>
 
 azure : é uma plataforma de computação em nuvem desenvolvida pela
 micrsosoft. ela envolve diversos serviços de computação. 
