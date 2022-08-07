@@ -8,7 +8,6 @@
 &nbsp;
 
 ### **Chapter 01 :** – Introduction to Azure Data Platform 
-    - Tipos de Profissionais de Dados
     - Data types
     - Storage types
     - Azure Data Platform
@@ -16,91 +15,49 @@
     - Workloads
 
 ### **Chapter 02 :** – Storage
+    - Storage Account
+    - Criando uma Storage Account
+    - Azure Files
+    - Creating and Using Azure Files
+    - Data Ingestion
+    - Azure Table Storage
+    - Creating and Using Azure Table Storage
+    - Azure Blob Storage
+    - Creating and Using Azure Blob Storage
+    - Data Lake Storage Gen2
+    - Creating and Using a Data Lake Storage Gen2
 
-2.1. Storage Account
 
-2.2. Criando uma Storage Account
+### **Chapter 3** – Storage and Azure Relational Databases 
+    - Relational Databases with IaaS 
+    - Demo Relational Databases with IaaS
+    - Azure SQL Database Managed Instance
+    - Demo Azure SQL Database Managed Instance
+    - Azure SQL Database
+    - Demo Azure SQL Database
+    - Bancos de Dados Open Source no Azure
 
-2.3. Azure Files
 
-2.4. Criando e Usando Azure Files
 
-2.5. Ingestão de Dados
+### **Chapter 4** – Storage of NoSQL on Azure
+    - No Relational Databases on Azure
+    - Azure Cosmos DB
+    - Demo Azure Cosmos DB
 
-2.6. Azure Table Storage
-
-2.7. Criando e Usando Azure Table Storage
-
-2.8. Azure Blob Storage
-
-2.9. Criando e Usando Azure Blob Storage
-
-2.10. Data Lake Storage Gen2
-
-2.11. Criando e Usando um Data Lake Storage Gen2
-
- 
-
-Capítulo 3 – Armazenamento de Dados Relacionais no Azure
-
-3.1. Bancos de Dados Relacionais em IaaS
-
-3.2. Demo Bancos de Dados Relacionais em IaaS
-
-3.3. Azure SQL Database Managed Instance
-
-3.4. Demo Azure SQL Database Managed Instance
-
-3.5. Azure SQL Database
-
-3.6. Demo Azure SQL Database
-
-3.7. Bancos de Dados Open Source no Azure
+### **Chapter 5** – Soluções para Big Data & Analytics
+    - Introduction to Big Data
+    - Introduction to HDInsight
+    - Provisioning  HDInsight Environment
+    - Introduction to Azure DataBricks
+    - Demo Azure DataBricks
+    - Introduction to Azure Synapse Analytics
+    - Demo Azure Synapse Analytics
 
  
 
-Capítulo 4 – Armazenamento de Dados Não Relacionais no Azure
+### **Chapter 6** – Solutions for data Pipelines
+    - Introduction to Azure Data Factory
+    - Creating a Data Pipelines with Azure Data Factory
 
-4.1. Bancos de Dados Não Relacionais no Azure
-
-4.2. Azure Cosmos DB
-
-4.3. Demo Azure Cosmos DB
-
- 
-
-Primeira Aula Interativa
-
-Trabalho Prático
-
- 
-
-Capítulo 5 – Soluções para Big Data & Analytics
-
-5.1. Introdução à Big Data
-
-5.2. Introdução ao HDInsight
-
-5.3. Aprovisionando um Ambiente do HDInsight
-
-5.4. Introdução ao Azure DataBricks
-
-5.5. Demonstração do Azure DataBricks
-
-5.6. Introdução ao Azure Synapse Analytics
-
-5.7. Demonstração do Azure Synapse Analytics
-
- 
-
-Capítulo 6 – Soluções para Pipeline de Dados
-
-6.1. Introdução ao Azure Data Factory
-
-6.2. Criando um Pipeline de Dados com o Azure Data Factory
-
- 
-
-Capítulo 7 – Soluções de Machine Learning
-
-7.1. Overview do Azure Machine Learning
+### **Capítulo 7** – Solutions for Machine Learning 
+    - Overview of Azure Machine Learning
