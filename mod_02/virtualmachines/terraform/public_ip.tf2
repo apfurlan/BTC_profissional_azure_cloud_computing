@@ -1,0 +1,7 @@
+# Create public IPs
+resource "azurerm_public_ip" "myterraformpublicip" {
+  name                = "myPublicIP"
+  location            = "East US 2"
+  resource_group_name = "rg-igti-xpe"
+  allocation_method   = "Dynamic"
+}
